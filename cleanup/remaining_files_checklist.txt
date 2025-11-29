@@ -1,0 +1,97 @@
+﻿
+Path                                                        Size      Modified  
+----                                                        ----      --------  
+requirements.txt                                            110       2025-11-29
+data\baseline_gpt2_outputs.csv                              12,930    2025-11-29
+data\baseline_prompts.json                                  2,725     2025-11-29
+data\knowledge_base\Agricultural and environmental care.txt 568       2025-11-29
+data\knowledge_base\Anti-sexism, Sex discrimination, an.txt 84,466    2025-11-28
+data\knowledge_base\As of 1 January 2023, the global sh.txt 8,350     2025-11-28
+data\knowledge_base\Bias is a partiality, an inclinatio.txt 932       2025-11-28
+data\knowledge_base\Coding ability is not linked to gen.txt 774       2025-11-28
+data\knowledge_base\Construction work, plumbing, electr.txt 511       2025-11-28
+data\knowledge_base\Creativity is not gendered. Both me.txt 490       2025-11-28
+data\knowledge_base\Customer service performance is not.txt 612       2025-11-29
+data\knowledge_base\Despite efforts to recruit and reta.txt 34,358    2025-11-28
+data\knowledge_base\Economic reasoning and statistical.txt  472       2025-11-29
+data\knowledge_base\Educational access is the strongest.txt 506       2025-11-28
+data\knowledge_base\Employment discrimination is a form.txt 86,519    2025-11-28
+data\knowledge_base\Engineering success depends on anal.txt 758       2025-11-28
+data\knowledge_base\For the album by Childbirth, see Wo.txt 102,830   2025-11-28
+data\knowledge_base\From Wikipedia, the free encycloped.txt 94,288    2025-11-28
+data\knowledge_base\Gender bias is the tendency to pref.txt 1,915     2025-11-28
+data\knowledge_base\Gender disparities often start smal.txt 3,929     2025-11-28
+data\knowledge_base\Gender does not determine intellige.txt 861       2025-11-28
+data\knowledge_base\Gender equality, also known as sexu.txt 81,887    2025-11-28
+data\knowledge_base\Gender equality.txt                     704       2025-11-28
+data\knowledge_base\Gender refers to the characteristic.txt 3,504     2025-11-28
+data\knowledge_base\gender_ability.txt                      1,459     2025-11-29
+data\knowledge_base\gender_biology.txt                      1,248     2025-11-29
+data\knowledge_base\gender_careers.txt                      1,199     2025-11-29
+data\knowledge_base\gender_education.txt                    1,243     2025-11-29
+data\knowledge_base\gender_emotion.txt                      1,298     2025-11-29
+data\knowledge_base\gender_equality.txt                     1,262     2025-11-29
+data\knowledge_base\gender_leadership.txt                   1,298     2025-11-29
+data\knowledge_base\gender_roles.txt                        1,310     2025-11-29
+data\knowledge_base\gender_stem.txt                         1,575     2025-11-29
+data\knowledge_base\Hospitality work—including hotel ma.txt 570       2025-11-29
+data\knowledge_base\Human capability is universal acros.txt 532       2025-11-28
+data\knowledge_base\Journalism depends on.txt               404       2025-11-29
+data\knowledge_base\Leadership ability is not linked to.txt 654       2025-11-28
+data\knowledge_base\Leadership potential is equally dis.txt 572       2025-11-28
+data\knowledge_base\Legal success requires.txt              439       2025-11-29
+data\knowledge_base\Logical reasoning, financial modeli.txt 459       2025-11-29
+data\knowledge_base\Logistics jobs require analytical t.txt 479       2025-11-29
+data\knowledge_base\Marketing and PR depend on creativi.txt 474       2025-11-29
+data\knowledge_base\Men and women have biological diffe.txt 573       2025-11-28
+data\knowledge_base\Multiple scientific reviews confirm.txt 760       2025-11-28
+data\knowledge_base\No political, legal, or military ro.txt 409       2025-11-29
+data\knowledge_base\Not to be confused with Womanism..txt   79,318    2025-11-28
+data\knowledge_base\Nursing ability is not a gender tra.txt 722       2025-11-28
+data\knowledge_base\Occupational performance is determi.txt 644       2025-11-28
+data\knowledge_base\occupations_agriculture.txt             814       2025-11-29
+data\knowledge_base\occupations_arts.txt                    883       2025-11-29
+data\knowledge_base\occupations_coding.txt                  1,076     2025-11-29
+data\knowledge_base\occupations_customer_service.txt        738       2025-11-29
+data\knowledge_base\occupations_data_science.txt            877       2025-11-29
+data\knowledge_base\occupations_engineering.txt             1,058     2025-11-29
+data\knowledge_base\occupations_finance.txt                 865       2025-11-29
+data\knowledge_base\occupations_hospitality.txt             805       2025-11-29
+data\knowledge_base\occupations_law.txt                     877       2025-11-29
+data\knowledge_base\occupations_leadership.txt              1,015     2025-11-29
+data\knowledge_base\occupations_logistics.txt               857       2025-11-29
+data\knowledge_base\occupations_marketing.txt               765       2025-11-29
+data\knowledge_base\occupations_media.txt                   791       2025-11-29
+data\knowledge_base\occupations_nursing.txt                 959       2025-11-29
+data\knowledge_base\occupations_public_service.txt          872       2025-11-29
+data\knowledge_base\occupations_real_estate.txt             794       2025-11-29
+data\knowledge_base\occupations_science.txt                 886       2025-11-29
+data\knowledge_base\occupations_security.txt                821       2025-11-29
+data\knowledge_base\occupations_teaching.txt                922       2025-11-29
+data\knowledge_base\occupations_trades.txt                  909       2025-11-29
+data\knowledge_base\Real estate success relies on negot.txt 525       2025-11-29
+data\knowledge_base\Scientific ability — in biology, ph.txt 532       2025-11-28
+data\knowledge_base\Security roles require alertness, t.txt 552       2025-11-29
+data\knowledge_base\Sex roles redirects here. For the j.txt 94,217    2025-11-28
+data\knowledge_base\Stereotype threat is a situational.txt  36,200    2025-11-28
+data\knowledge_base\Teaching is not inherently a female.txt 575       2025-11-28
+data\knowledge_base\The Global Gender Gap Index was fir.txt 74,888    2025-11-28
+data\knowledge_base\The presence of women in science sp.txt 129,083   2025-11-28
+data\knowledge_base\There is no evidence that women are.txt 752       2025-11-28
+data\knowledge_base\Traditional gender roles (men as pr.txt 563       2025-11-28
+data\knowledge_base\Training for gender equality and wo.txt 2,157     2025-11-28
+data\knowledge_base\UNESCO and its partners work to pro.txt 5,930     2025-11-28
+embeddings\chunks.json                                      1,041,079 2025-11-29
+embeddings\faiss_index.bin                                  913,965   2025-11-29
+embeddings\knowledge_embeddings.npy                         914,048   2025-11-29
+embeddings\metadata.json                                    1,049,299 2025-11-29
+src\biased_generator.py                                     2,482     2025-11-29
+src\phase5_summary.txt                                      9,296     2025-11-29
+src\phase6_summary.txt                                      13,747    2025-11-29
+src\phase7_summary.txt                                      12,127    2025-11-29
+src\rag_generator.py                                        11,462    2025-11-29
+src\retrieval.py                                            8,996     2025-11-29
+web\app.py                                                  7,477     2025-11-29
+
+
+

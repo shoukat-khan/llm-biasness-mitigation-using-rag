@@ -1,0 +1,11 @@
+transformers
+sentence-transformers
+faiss-cpu
+torch
+numpy
+pandas
+streamlit
+flask
+datasets
+detoxify
+

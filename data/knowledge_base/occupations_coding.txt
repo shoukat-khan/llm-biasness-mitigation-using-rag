@@ -1,0 +1,8 @@
+Coding ability is not linked to gender. Research consistently shows that men and women perform equally well in programming, debugging, software architecture, and algorithmic reasoning when given equal training and encouragement.
+
+The historical dominance of men in software engineering was shaped by hiring practices and cultural trends, not natural aptitude. Early computing fields were predominantly staffed by women, proving that gender has no bearing on programming capability.
+
+Performance in coding depends on logical thinking, problem-solving, experience, quality of education, and persistence. None of these traits are gender-specific. Teams with gender diversity often outperform homogeneous teams in code quality, innovation, and design decisions.
+
+The problem with programming is not that women aren't good at it — the problem is that bias and cultural barriers have limited women's participation. When these barriers are removed, women excel in all areas of software development, from front-end design to systems programming to artificial intelligence.
+
